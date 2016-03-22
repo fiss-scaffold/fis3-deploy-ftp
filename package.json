@@ -1,12 +1,12 @@
 {
-  "name": "fis3-deploy-ftp",
+  "name": "fis3-deploy-ftp-x",
   "description": "A deploy plugin for fis3 to deploy ftp.",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "author": {
     "name": "winnieBear",
     "email": "fengyang321@gmail.com"
   },
-  "homepage": "https://github.com/fiss-scaffold/fis3-deploy-ftp",
+  "homepage": "https://github.com/fiss-scaffold/fis3-deploy-ftp-x",
   "keywords": [
     "fis3",
     "deploy",
@@ -16,7 +16,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fiss-scaffold/fis3-deploy-ftp"
+    "url": "https://github.com/fiss-scaffold/fis3-deploy-ftp-x"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -25,7 +25,7 @@
     "ftp": "0.3.6"
   },
   "bugs": {
-    "url": "https://github.com/fiss-scaffold/fis3-deploy-ftp/issues"
+    "url": "https://github.com/fiss-scaffold/fis3-deploy-ftp-x/issues"
   },
   "license": "BSD"
 }

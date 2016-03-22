@@ -1,4 +1,4 @@
-# fis3-deploy-ftp
+# fis3-deploy-ftp-x
 fis3 ftp deploy plugin,将代码通过ftp的方式上传到ftp服务器，支持include/exclude选项，支持不同的路径上传到不同的ftp服务器。
 
 本插件参考了fis-deploy-ftp插件的代码，进行了一些修改。
