@@ -31,10 +31,10 @@ fis.match('*', {
         }),
         fis.plugin('ftp', {
             //'console':true,
-            remoteDir : '/remote/dir/to/upload/dir2/',,
+            remoteDir : '/remote/dir/to/upload/dir2/',
             include:['/img/'],
             connect : {
-                host : 'xxx.xxx.xxx.2',,
+                host : 'xxx.xxx.xxx.2',
                 port : '21',
                 user : 'ftp username',
               	password : 'ftp password'
