@@ -12,7 +12,7 @@ fis3 ftp deploy plugin,将代码通过ftp的方式上传到ftp服务器，支持
 ```
 fis.match('*', {
     deploy: [
-        fis.plugin('ftp', {
+        fis.plugin('ftp-x', {
         	//是否打印调试信息的开关
           //'console':true,
           //ftp远程目录
